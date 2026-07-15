@@ -1,0 +1,7 @@
+colorama
+mss
+keyboard
+pillow
+pynput
+pywin32
+pymem
